@@ -1,0 +1,103 @@
+/*Settings page styles.*/
+#custom-type-list {
+    margin: 20px 0;
+}
+
+#custom-type-list li {
+    border: 1px solid #ddd;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background-color: #f7f7f7;
+    max-width: 400px;
+    padding: 10px;
+    cursor: move;
+}
+
+#loading-animation {
+    display: none;
+}
+
+/* Field styles */
+.meta-row {
+    border-bottom: 1px solid #e9e9e9;
+    padding: 20px;
+}
+
+.meta-th {
+    display: inline-block;
+    float: left;
+    width: 25%;
+    font-weight: bold;
+}
+
+.meta-tr {
+    display: inline-block;
+    float: right;
+    width: 75%;
+}
+
+.meta {
+    margin-top: 20px;
+}
+
+.dwwp-textarea {
+    height: 100px;
+    width: 75%;
+}
+
+.quicktags-toolbar {
+    margin-bottom: 5px;
+    display: inline-block;
+    float: left;
+    background: #ffffff !important;
+    border-bottom: none !important;
+}
+
+#widget-list [id*='_everest-'] .widget-top, #widget-list [id*='_brands-'] .widget-top, #widget-list [id*='_services-'] .widget-top, #widget-list [id*='_everest-'] h3, #widget-list [id*='_brands-'] h3, #widget-list [id*='_services-'] h3 {
+    background: #f06c45;
+    color: #fff;
+    border-color: transparent;
+}
+
+#widget-list [id*='_everest-'] .widget-top:hover, #widget-list [id*='_brands-'] .widget-top:hover, #widget-list [id*='_services-'] .widget-top:hover {
+    opacity: 0.9;
+}
+
+.screenshot img {
+    margin-top: 5px;
+}
+
+.screenshot a.remove-image {
+    display: block;
+    color: #a00;
+}
+
+.repeater-item {
+    border: 1px solid #cccccc;
+    padding: 0 10px 20px 10px;
+    margin-bottom: 14px;
+}
+
+.sub-option.section.widget-upload {
+    margin-bottom: 10px;
+}
+
+.rAdsContainer, .redux-timer {
+    display: none;
+}
+
+#customize-theme-controls #accordion-section-store99_sec_help_support_options .accordion-section-title{
+    font-weight: bold;
+    background-color: #f06c45;
+    color: #fff !important;
+    /*border-bottom: 0;*/
+}
+
+#customize-theme-controls #accordion-section-store99_sec_help_support_options .accordion-section-title:after{
+    color: #fff !important;
+}
+
+#customize-control-store99_help_support span {
+    line-height: 24px;
+}

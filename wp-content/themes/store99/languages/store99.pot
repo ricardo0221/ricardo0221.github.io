@@ -1,0 +1,791 @@
+# Copyright (C) 2017 Everest Themes
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Store99 1.0.0\n"
+"Report-Msgid-Bugs-To: https://everestthemes.com/contact\n"
+"POT-Creation-Date: 2017-08-04 06:51+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Everest Themes <info@everestthemes.com>\n"
+"Language-Team: Everest Themes\n"
+"Language: Everest Themes\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:31
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:35
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:50 comments.php:71
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:53 comments.php:74
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:54 comments.php:75
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:88
+msgid "Comments are closed."
+msgstr ""
+
+#. Author URI of the theme
+#: footer.php:172
+msgid "http://everestthemes.com"
+msgstr ""
+
+#: functions.php:48
+msgid "Top"
+msgstr ""
+
+#: functions.php:49
+msgid "Primary"
+msgstr ""
+
+#: functions.php:50
+msgid "Category"
+msgstr ""
+
+#: functions.php:103
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:105 functions.php:115 functions.php:125 functions.php:135
+#: functions.php:145 functions.php:155 functions.php:165 functions.php:175
+#: functions.php:185 functions.php:195 functions.php:205 functions.php:215
+#: functions.php:225 functions.php:235 functions.php:245 functions.php:255
+#: functions.php:265 functions.php:275
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:113
+msgid "Home 1/3 - Full Width"
+msgstr ""
+
+#: functions.php:123
+msgid "Home 2 - 2/3 Width"
+msgstr ""
+
+#: functions.php:133
+msgid "Home 3 - 1/3 Width"
+msgstr ""
+
+#: functions.php:143
+msgid "Home 4 - Full Width"
+msgstr ""
+
+#: functions.php:153
+msgid "Home 5 - Full Width"
+msgstr ""
+
+#: functions.php:163
+msgid "Home 6 - Full  Width"
+msgstr ""
+
+#: functions.php:173
+msgid "Home 7 - 2/3 Width"
+msgstr ""
+
+#: functions.php:183
+msgid "Home 8 - 1/3 Width"
+msgstr ""
+
+#: functions.php:193
+msgid "Footer Top Widget 1"
+msgstr ""
+
+#: functions.php:203
+msgid "Footer Top Widget 2"
+msgstr ""
+
+#: functions.php:213
+msgid "Footer Top Widget 3"
+msgstr ""
+
+#: functions.php:223
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:233
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:243
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:253
+msgid "Footer Widget 4"
+msgstr ""
+
+#: functions.php:263
+msgid "Footer Bottom Widget 1"
+msgstr ""
+
+#: functions.php:273
+msgid "Footer Bottom Widget 2"
+msgstr ""
+
+#: owl-slider.php:65
+msgid "Previous"
+msgstr ""
+
+#: owl-slider.php:70
+msgid "Next"
+msgstr ""
+
+#: search.php:27
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page Template"
+msgstr ""
+
+#: inc/breadcrumbs.php:244
+msgid "Browse:"
+msgstr ""
+
+#: inc/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs.php:246
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/breadcrumbs.php:248
+msgid "Archives"
+msgstr ""
+
+#. %s is the search query. The HTML entities are opening and closing curly quotes.
+#: inc/breadcrumbs.php:250
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:254
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/breadcrumbs.php:758 inc/breadcrumbs.php:787 inc/breadcrumbs.php:814
+#: inc/breadcrumbs.php:841 inc/breadcrumbs.php:1176
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/breadcrumbs.php:759 inc/breadcrumbs.php:815 inc/breadcrumbs.php:1180
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/breadcrumbs.php:760 inc/breadcrumbs.php:1184
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/customizer.php:24
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Show Loading Overlay"
+msgstr ""
+
+#: inc/customizer.php:53
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Header Top"
+msgstr ""
+
+#: inc/customizer.php:78
+msgid "Show Header Top"
+msgstr ""
+
+#: inc/customizer.php:94
+msgid "Email"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Address"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "Header Middle"
+msgstr ""
+
+#: inc/customizer.php:155
+msgid "Show Mini Cart"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Show Search Form"
+msgstr ""
+
+#: inc/customizer.php:183
+msgid "Main Slider"
+msgstr ""
+
+#: inc/customizer.php:189
+msgid "Enable/Disable"
+msgstr ""
+
+#: inc/customizer.php:204
+msgid "Enable Slider on HomePage."
+msgstr ""
+
+#: inc/customizer.php:223
+msgid "No. of Slides(Min:0, Max: 3)"
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Save the Settings, and Reload this page to Configure the Slides."
+msgstr ""
+
+#: inc/customizer.php:238
+msgid "Slide "
+msgstr ""
+
+#: inc/customizer.php:271
+msgid "Slide Title"
+msgstr ""
+
+#: inc/customizer.php:285
+msgid "Slide Description"
+msgstr ""
+
+#: inc/customizer.php:300
+msgid "Button Text(Optional)"
+msgstr ""
+
+#: inc/customizer.php:314
+msgid "Target URL"
+msgstr ""
+
+#: inc/customizer.php:340
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/customizer.php:349
+msgid "Product Archive"
+msgstr ""
+
+#: inc/customizer.php:366 inc/customizer.php:413
+msgid "Show Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:383
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/customizer.php:386
+msgid "Comma separated list of product counts."
+msgstr ""
+
+#: inc/customizer.php:396
+msgid "Single Product"
+msgstr ""
+
+#: inc/customizer.php:430
+msgid "Show Short Description"
+msgstr ""
+
+#: inc/customizer.php:447
+msgid "Show Products Tabs"
+msgstr ""
+
+#: inc/customizer.php:464
+msgid "Show Related Products"
+msgstr ""
+
+#: inc/customizer.php:476
+msgid "Cart Page"
+msgstr ""
+
+#: inc/customizer.php:493
+msgid "Show Cross Sells"
+msgstr ""
+
+#: inc/customizer.php:510
+msgid "Cross Sells Count"
+msgstr ""
+
+#: inc/customizer.php:522
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:537
+msgid "Show Payments Logos"
+msgstr ""
+
+#: inc/customizer.php:570
+msgid "Payments Image Title"
+msgstr ""
+
+#: inc/customizer.php:586
+msgid "Payments Image Link"
+msgstr ""
+
+#: inc/customizer.php:598
+msgid "Store99 - Help & Support"
+msgstr ""
+
+#: inc/customizer.php:615
+msgid "Thank You"
+msgstr ""
+
+#: inc/store99-functions.php:180
+msgid "Search for:"
+msgstr ""
+
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. %s: post author.
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:52
+msgid ", "
+msgstr ""
+
+#. 1: list of categories.
+#: inc/template-tags.php:55
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. 1: list of tags.
+#: inc/template-tags.php:62
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:72
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:89
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/woocommerce-settings.php:58
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: inc/woocommerce-settings.php:71
+msgid "Grid View"
+msgstr ""
+
+#: inc/woocommerce-settings.php:77
+msgid "List View"
+msgstr ""
+
+#: inc/woocommerce-settings.php:178
+msgid "Sale!"
+msgstr ""
+
+#: inc/woocommerce-settings.php:234
+msgid "out of 5"
+msgstr ""
+
+#: inc/woocommerce-settings.php:261
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/woocommerce-settings.php:301
+msgid "All Categories"
+msgstr ""
+
+#: inc/woocommerce-settings.php:321
+msgid "Search for products"
+msgstr ""
+
+#: inc/woocommerce-settings.php:405
+msgid ""
+"Sorry, no products matched your selection. Please choose a different "
+"combination."
+msgstr ""
+
+#: inc/woocommerce-settings.php:406
+msgid "Select product options before adding this product to your cart."
+msgstr ""
+
+#: inc/woocommerce-settings.php:407
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:26 template-parts/content-single.php:40
+#: template-parts/content.php:45
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:34
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/widgets/store99-show-widget-fields.php:236
+msgid "No file chosen"
+msgstr ""
+
+#: inc/widgets/store99-show-widget-fields.php:240
+#: inc/widgets/brands-with-icons/class-brands-with-icons.php:35
+#: inc/widgets/brands-with-icons/class-brands-with-icons.php:231
+#: inc/widgets/services-with-icons/class-services-with-icons.php:161
+msgid "Upload"
+msgstr ""
+
+#: inc/widgets/store99-show-widget-fields.php:242
+#: inc/widgets/brands-with-icons/class-brands-with-icons.php:36
+#: inc/widgets/brands-with-icons/class-brands-with-icons.php:233
+#: inc/widgets/services-with-icons/class-services-with-icons.php:163
+msgid "Remove"
+msgstr ""
+
+#: inc/widgets/store99-show-widget-fields.php:245
+#: inc/widgets/brands-with-icons/class-brands-with-icons.php:236
+#: inc/widgets/services-with-icons/class-services-with-icons.php:166
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/widgets/store99-show-widget-fields.php:260
+msgid "View File"
+msgstr ""
+
+#: inc/widgets/store99-show-widget-fields.php:271
+msgid "Add Row"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/brands-with-icons/class-brands-with-icons.php:14
+msgid "Everest: Brands With Images"
+msgstr ""
+
+#: inc/widgets/brands-with-icons/class-brands-with-icons.php:17
+msgid "Display brands with image."
+msgstr ""
+
+#: inc/widgets/brands-with-icons/class-brands-with-icons.php:66
+msgid "Brands"
+msgstr ""
+
+#: inc/widgets/brands-with-icons/class-brands-with-icons.php:182
+#: inc/widgets/brands-with-icons/class-brands-with-icons.php:197
+#: inc/widgets/services-with-icons/class-services-with-icons.php:120
+#: inc/widgets/services-with-icons/class-services-with-icons.php:136
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/brands-with-icons/class-brands-with-icons.php:205
+msgid "Link:"
+msgstr ""
+
+#: inc/widgets/brands-with-icons/class-brands-with-icons.php:255
+msgid "Add Brand"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/posts-slider/class-posts-slider.php:16
+msgid "Everest: Posts Slider"
+msgstr ""
+
+#: inc/widgets/posts-slider/class-posts-slider.php:19
+msgid "Displays posts slider."
+msgstr ""
+
+#: inc/widgets/posts-slider/class-posts-slider.php:49
+msgid "Post Category Title"
+msgstr ""
+
+#: inc/widgets/posts-slider/class-posts-slider.php:55
+msgid "Select Post Category"
+msgstr ""
+
+#: inc/widgets/posts-slider/class-posts-slider.php:62
+msgid "Number of posts to show"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/services-with-icons/class-services-with-icons.php:12
+msgid "Everest: Services With Images"
+msgstr ""
+
+#: inc/widgets/services-with-icons/class-services-with-icons.php:15
+msgid "Display services with image."
+msgstr ""
+
+#: inc/widgets/services-with-icons/class-services-with-icons.php:33
+msgid "Services"
+msgstr ""
+
+#: inc/widgets/services-with-icons/class-services-with-icons.php:174
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/services-with-icons/class-services-with-icons.php:192
+msgid "Add Service"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/social-media-icons/class-social-icons.php:16
+msgid "Everest: Social Icons"
+msgstr ""
+
+#: inc/widgets/social-media-icons/class-social-icons.php:19
+msgid "Displays a links of social icons."
+msgstr ""
+
+#. Base ID
+#: inc/widgets/woo-categories/class-woo-categories.php:16
+msgid "Everest: Woo Categories"
+msgstr ""
+
+#: inc/widgets/woo-categories/class-woo-categories.php:19
+msgid "Displays WooCommerce categories."
+msgstr ""
+
+#: inc/widgets/woo-categories/class-woo-categories.php:48
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:31
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/woo-categories/class-woo-categories.php:54
+msgid "Select Categories"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/woo-category-with-products/class-woo-category-with-products.php:16
+msgid "Everest: Woo Category With Products"
+msgstr ""
+
+#: inc/widgets/woo-category-with-products/class-woo-category-with-products.php:19
+msgid "Displays WooCommerce category featured image with selected products."
+msgstr ""
+
+#: inc/widgets/woo-category-with-products/class-woo-category-with-products.php:49
+#: inc/widgets/woo-products-slider/class-woo-products-slider.php:49
+msgid "Product Category Title"
+msgstr ""
+
+#: inc/widgets/woo-category-with-products/class-woo-category-with-products.php:55
+msgid "Select Category Image"
+msgstr ""
+
+#: inc/widgets/woo-category-with-products/class-woo-category-with-products.php:61
+#: inc/widgets/woo-products-slider/class-woo-products-slider.php:55
+msgid "Select Product Category"
+msgstr ""
+
+#: inc/widgets/woo-category-with-products/class-woo-category-with-products.php:68
+#: inc/widgets/woo-products-slider/class-woo-products-slider.php:62
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:37
+msgid "Number of products to show"
+msgstr ""
+
+#. Base ID
+#: inc/widgets/woo-products-slider/class-woo-products-slider.php:16
+msgid "Everest: Woo Products Slider"
+msgstr ""
+
+#: inc/widgets/woo-products-slider/class-woo-products-slider.php:19
+msgid "Displays WooCommerce products slider."
+msgstr ""
+
+#. Base ID
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:16
+msgid "Everest: Woo Single Layout Products"
+msgstr ""
+
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:19
+msgid "Displays WooCommerce products with having layout design."
+msgstr ""
+
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:43
+msgid "Show"
+msgstr ""
+
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:46
+msgid "All products"
+msgstr ""
+
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:47
+msgid "Featured products"
+msgstr ""
+
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:48
+msgid "On-sale products"
+msgstr ""
+
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:54
+msgid "Order by"
+msgstr ""
+
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:57
+msgid "Date"
+msgstr ""
+
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:58
+msgid "Price"
+msgstr ""
+
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:59
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:60
+msgid "Sales"
+msgstr ""
+
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:66
+msgid "Sorting Order"
+msgstr ""
+
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:69
+msgid "ASC"
+msgstr ""
+
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:70
+msgid "DESC"
+msgstr ""
+
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:76
+msgid "Hide Free Products"
+msgstr ""
+
+#: inc/widgets/woo-single-layout-products/class-woo-single-layout-products.php:82
+msgid "Show Hidden Products"
+msgstr ""
+
+#. Name of the theme
+msgid "Store99"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Store99 is a modern, responsive &amp; powerful WooCommerce WordPress theme. "
+"It has all the basic and advanced features needed to run an E-Commerce site."
+msgstr ""
+
+#. URI of the theme
+msgid "https://demo.everestthemes.com/store99"
+msgstr ""
+
+#. Author of the theme
+msgid "N1 Technology"
+msgstr ""
