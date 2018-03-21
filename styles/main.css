@@ -17,9 +17,9 @@ body{
 #nav li a{
 	display: block;
 	color: #000;
-	padding: 30% 20px;
+	padding: 30% 10px;
 	text-decoration: none;
-	font-size: 150%;
+	font-size: 17px;
 }
 
 #nav li a.active{
@@ -31,3 +31,4 @@ li a:hover:not(.active) {
     background-color: #555;
     color: white;
 }
+
